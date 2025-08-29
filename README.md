@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
