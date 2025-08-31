@@ -104,6 +104,10 @@ public:
 
 </details>
 
+<details>
+<summary>📊 GitHub Activities</summary>
+    <img src="wakatime/stats.svg" height="320">
+</details>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
