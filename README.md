@@ -107,6 +107,7 @@ public:
 <details>
 <summary>📊 GitHub Activities</summary>
     <img src="wakatime/stats.svg" height="320">
+    [![Najd_Elaoud profile views](https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg)](https://u8views.com/github/NajElaoud)
 </details>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
