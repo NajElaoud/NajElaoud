@@ -33,7 +33,7 @@ public:
 [![GMAIL](https://img.shields.io/badge/najdelaoud4@gmail.com-EA4335?style=social&logo=gmail&logoColor=EA4335)](mailto:najdelaoud4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najd-elaoud-504468204)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=social&logo=discord&logoColor=5865F2)](https://discord.com/channels/najd_elaoud#1869)
-![CV](https://img.shields.io/badge/CV_Najd_Elaoud_2025_Eng__V.pdf-5865F2?style=social&logo=readdotcv&logoColor=5865F2)
+[![CV](https://img.shields.io/badge/My_CV-5865F2?style=social&logo=readdotcv&logoColor=5865F2)](CV_Najd_Elaoud_2025_Eng__V.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=vercel)](https://portfolio-najd-elaoud.vercel.app)
 ---
 ## 🖥️ Some Tool and Tech I use
